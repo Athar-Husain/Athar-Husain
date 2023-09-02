@@ -1,13 +1,20 @@
 
+- 🔭 I’m currently working on: Exciting MERN Stack projects and React Native apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning: The latest frontend and backend technologies to stay ahead in the ever-evolving tech world.
+<!----
+- 👯 I’m looking to collaborate on: Open-source projects, innovative web and mobile app ideas, and anything related to JavaScript.
+---->
+
+- 🤔 I’m looking for help with: Optimizing performance in React Native apps and mastering advanced database design.
+
+- 💬 Ask me about: MERN Stack development, React Native app development, and best practices in web development.
+
+- 📫 How to reach me: Feel free to connect with me on GitHub or LinkedIn. I'm always open to networking and discussing tech.
+
+- 😄 Pronouns: He/Him
+
+- ⚡ Fun fact: I can recite the entire "Hello World" program in 10 different programming languages!
 
 
 
